@@ -1,50 +1,43 @@
 # ¡Hola! 👋 Soy Anny Pallares
 
-QA Engineer certificada con experiencia en análisis de requisitos, diseño de casos de prueba, UI Testing y API Testing.
+Soy QA Engineer certificada y disfruto encontrar esos pequeños detalles que pueden convertirse en grandes problemas para un usuario. Me gusta analizar cómo funciona una aplicación, cuestionar su comportamiento y asegurarme de que cada funcionalidad cumpla con lo esperado.
 
-Me motiva encontrar inconsistencias y riesgos ocultos para contribuir a productos más estables y confiables.
+Durante mi formación he trabajado en proyectos de pruebas manuales y de API, donde aprendí a analizar requisitos, diseñar casos de prueba, documentar defectos y utilizar diferentes herramientas para evaluar la calidad del software.
 
-## 🔍 Áreas de interés
+## 🔎 ¿Qué encontrarás en este perfil?
 
-* Quality Assurance
-* API Testing
-* UI Testing
-* Gestión de Defectos
-* Experiencia de Usuario
-* Videojuegos
-* Plataformas de Streaming
-* Tecnología y Cultura Coreana
+Aquí comparto los proyectos que he desarrollado como parte de mi formación en Quality Assurance. Cada repositorio muestra cómo abordé el proceso de pruebas, los artefactos que elaboré y las decisiones que tomé para validar el funcionamiento de una aplicación.
 
-## 🛠 Herramientas
+## 🛠️ Herramientas con las que he trabajado
 
-* Postman
-* Jira
-* DevTools
-* JSON
-* Figma
-* GitHub
-* Agile / Scrum
+- Postman
+- Jira
+- DevTools
+- JSON
+- Figma
+- Git y GitHub
+- Metodologías Agile / Scrum
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos destacados
 
-### Urban Scooter – Proyecto Final QA Engineer
+### 🛴 Patinete urbano – Pruebas manuales
 
-Proyecto integrador donde realicé análisis de requisitos, diseño de pruebas, validación de APIs, pruebas funcionales y gestión de defectos.
+Proyecto de pruebas funcionales donde desarrollé casos de prueba, listas de comprobación, validación de datos, mapas mentales y reportes de errores utilizando Jira.
 
-### Order and Go – API Testing
+### 📦 Order and Go – API Testing
 
-Validación de endpoints y reglas de negocio utilizando Postman.
+Proyecto enfocado en la validación de servicios REST con Postman, comprobando endpoints, respuestas del servidor y diferentes escenarios de prueba.
 
-### Urban Routes – Análisis y Diseño de Pruebas
+### 🚖 Urban Routes – Análisis y diseño de pruebas
 
-Creación de mapas mentales, diagramas de flujo y casos de prueba utilizando técnicas de diseño QA.
+Proyecto centrado en el análisis de requisitos y el diseño de pruebas mediante técnicas como clases de equivalencia, valores límite, diagramas de flujo y mapas mentales.
 
 ## 🌱 Actualmente
 
-* Fortaleciendo mi portafolio profesional de QA.
-* Buscando oportunidades como QA Engineer Junior.
-* Aprendiendo continuamente sobre calidad de software y pruebas de aplicaciones.
+- Fortaleciendo mi portafolio de QA.
+- Aprendiendo automatización de pruebas con Selenium y Python.
+- Buscando mi primera oportunidad como QA Engineer para seguir creciendo y aportar a proyectos reales.
 
 ## 📫 Conectemos
 
-LinkedIn: [www.linkedin.com/in/anny-pallares94](http://www.linkedin.com/in/anny-pallares94)
+💼 LinkedIn: www.linkedin.com/in/anny-pallares94

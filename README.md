@@ -1,43 +1,98 @@
-# ¡Hola! 👋 Soy Anny Pallares
+# 👋 ¡Hola! Soy Anny Pallares
 
-Soy QA Engineer certificada y disfruto encontrar esos pequeños detalles que pueden convertirse en grandes problemas para un usuario. Me gusta analizar cómo funciona una aplicación, cuestionar su comportamiento y asegurarme de que cada funcionalidad cumpla con lo esperado.
+Soy **QA Engineer** y disfruto entender cómo funcionan las aplicaciones para encontrar esos pequeños detalles que pueden convertirse en grandes problemas para un usuario.
 
-Durante mi formación he trabajado en proyectos de pruebas manuales y de API, donde aprendí a analizar requisitos, diseñar casos de prueba, documentar defectos y utilizar diferentes herramientas para evaluar la calidad del software.
+Mi interés por el Quality Assurance nació porque me gusta analizar, cuestionar y validar que cada funcionalidad realmente cumpla con lo esperado. Para mí, hacer pruebas no es solo buscar errores, sino ayudar a construir productos más estables, confiables y con una mejor experiencia para las personas que los utilizan.
 
-## 🔎 ¿Qué encontrarás en este perfil?
+En este perfil comparto algunos de los proyectos que he desarrollado durante mi formación como QA Engineer. Cada uno refleja lo que he aprendido y cómo aplico distintas técnicas de prueba para resolver problemas reales.
 
-Aquí comparto los proyectos que he desarrollado como parte de mi formación en Quality Assurance. Cada repositorio muestra cómo abordé el proceso de pruebas, los artefactos que elaboré y las decisiones que tomé para validar el funcionamiento de una aplicación.
+---
 
-## 🛠️ Herramientas con las que he trabajado
+## 🔎 ¿Qué encontrarás aquí?
 
+Cada repositorio muestra una parte de mi proceso de trabajo como QA Engineer.
+
+Podrás encontrar:
+
+- ✔️ Casos de prueba y checklists.
+- ✔️ Pruebas manuales de aplicaciones web.
+- ✔️ Validación de APIs con Postman.
+- ✔️ Automatización de pruebas con Python y Selenium.
+- ✔️ Documentación técnica y reportes de pruebas.
+- ✔️ Proyectos desarrollados siguiendo buenas prácticas de Quality Assurance.
+
+Mi objetivo no es solo mostrar el resultado final, sino también la forma en que analizo una aplicación y tomo decisiones durante el proceso de pruebas.
+
+---
+
+## 🛠️ Herramientas con las que trabajo
+
+**Testing**
+
+- Manual Testing
+- API Testing
+- UI Testing
+- Selenium WebDriver
+- Pytest
 - Postman
+
+**Documentación y gestión**
+
 - Jira
-- DevTools
-- JSON
+- Git & GitHub
 - Figma
-- Git y GitHub
-- Metodologías Agile / Scrum
+- JSON
+- Chrome DevTools
 
-## 🚀 Proyectos destacados
+**Metodologías**
 
-### 🛴 Patinete urbano – Pruebas manuales
+- Agile
+- Scrum
+- Diseño de Casos de Prueba
+- Clases de Equivalencia
+- Análisis de Valores Límite
+- Gestión y reporte de defectos
 
-Proyecto de pruebas funcionales donde desarrollé casos de prueba, listas de comprobación, validación de datos, mapas mentales y reportes de errores utilizando Jira.
+---
 
-### 📦 Order and Go – API Testing
+## 🚀 Algunos de mis proyectos
 
-Proyecto enfocado en la validación de servicios REST con Postman, comprobando endpoints, respuestas del servidor y diferentes escenarios de prueba.
+### 🚖 Urban Scooter — Manual Testing
 
-### 🚖 Urban Routes – Análisis y diseño de pruebas
+Proyecto enfocado en pruebas manuales donde diseñé casos de prueba, listas de comprobación, validación de datos y documentación de pruebas para una aplicación web.
 
-Proyecto centrado en el análisis de requisitos y el diseño de pruebas mediante técnicas como clases de equivalencia, valores límite, diagramas de flujo y mapas mentales.
+---
+
+### 🚗 Urban Routes — Car Sharing Testing
+
+Proyecto de pruebas funcionales para la característica de uso compartido de automóviles. Incluye diseño de pruebas, ejecución manual y validación de la interfaz en distintos navegadores.
+
+---
+
+### 🤖 Urban Routes — QA Automation
+
+Proyecto de automatización desarrollado con **Python**, **Selenium WebDriver**, **Pytest** y el patrón **Page Object Model (POM)** para validar el flujo principal de solicitud de un taxi.
+
+---
+
+### 📦 Urban Grocers — API Testing
+
+Proyecto de pruebas de API utilizando **Python**, **Requests** y **Pytest**, validando diferentes escenarios y reglas de negocio mediante servicios REST.
+
+---
 
 ## 🌱 Actualmente
 
-- Fortaleciendo mi portafolio de QA.
-- Aprendiendo automatización de pruebas con Selenium y Python.
-- Buscando mi primera oportunidad como QA Engineer para seguir creciendo y aportar a proyectos reales.
+En este momento sigo fortaleciendo mis conocimientos y ampliando mi portafolio con nuevos proyectos de QA.
+
+Mi objetivo es continuar creciendo como profesional, aprender de nuevos retos y aportar a equipos donde la calidad del software sea una prioridad.
+
+---
 
 ## 📫 Conectemos
 
-💼 LinkedIn: www.linkedin.com/in/anny-pallares94
+💼 LinkedIn
+
+www.linkedin.com/in/anny-pallares94
+
+¡Gracias por visitar mi perfil! Espero que disfrutes recorriendo mis proyectos tanto como yo disfruté desarrollarlos. 🚀

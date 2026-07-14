@@ -6,7 +6,14 @@ Mi interés por el Quality Assurance nació porque me gusta analizar, cuestionar
 
 En este perfil comparto algunos de los proyectos que he desarrollado durante mi formación como QA Engineer. Cada uno refleja lo que he aprendido y cómo aplico distintas técnicas de prueba para resolver problemas reales.
 
----
+## 🎯 Actualmente busco
+
+Actualmente busco una oportunidad como **QA Engineer Junior o QA Manual**, donde pueda participar en la validación de aplicaciones web y móviles, el diseño y ejecución de casos de prueba, las pruebas de API y la documentación de hallazgos. Mi objetivo es seguir desarrollando mis habilidades en automatización de pruebas y crecer profesionalmente dentro de un equipo comprometido con la calidad del software.
+
+## 🤝 ¿Qué puedo aportar?
+
+Puedo aportar una forma de trabajo organizada, atención al detalle y un enfoque analítico para identificar riesgos y oportunidades de mejora. Tengo experiencia práctica en pruebas manuales, pruebas de API y automatización básica mediante proyectos desarrollados durante mi formación, utilizando herramientas como **Postman, Selenium, Python, Pytest, Git y GitHub**. Además, me adapto con facilidad al aprendizaje de nuevas tecnologías, disfruto trabajar de manera colaborativa y estoy comprometida con la entrega de productos de software confiables y de calidad.
+
 
 ## 🔎 ¿Qué encontrarás aquí?
 
